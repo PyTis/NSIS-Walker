@@ -1,0 +1,2 @@
+running py2exe
+*** searching for required modules ***

@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "Builder.py", line 53, in <module>
+  File "util\app.pyo", line 40, in __init__
+  File "wx\_core.pyo", line 7978, in __init__
+  File "wx\_core.pyo", line 7552, in _BootstrapApp
+  File "Builder.py", line 32, in OnInit
+  File "frames\MainFrame.pyo", line 51, in __init__
+  File "panels\BasePanel.pyo", line 79, in __init__
+  File "panels\BasePanel.pyo", line 226, in setColors
+  File "panels\BasePanel.pyo", line 190, in local
+  File "util\language.pyo", line 69, in local
+  File "util\language.pyo", line 118, in proc
+  File "util\language.pyo", line 128, in lookup
+NameError: global name 'path' is not defined

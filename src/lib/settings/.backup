@@ -1,0 +1,25 @@
+###############################################################################
+# The contents of this file are subject to the PyTis Public License 
+# Version 1.1 (the "License"); you may not use this file except in compliance 
+# with the License. You may obtain a copy of the License at
+#
+#                      http://www.PyTis.com/License/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+###############################################################################
+
+debug = True
+owner_name = ""
+
+salt = hippity hop hippity hop easter is on it's way!
+version = 1
+language = English
+vpatch_path = C:\Program Files (x86)\VPatch\GenPat.exe
+nsis_path = C:\Program Files (x86)\NSIS\makensisw.exe
+project_name = Foobar
+project_dir = ""
+nsi_file = ""
+last_
