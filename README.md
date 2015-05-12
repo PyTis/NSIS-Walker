@@ -10,7 +10,6 @@ in the install and un-install sections.
 The NSIS Walker is expalined in detail, with screen shots on the nsis sourceforge wiki
 [![NSIS 2 Walker Help Page](http://nsis.sourceforge.net/PyTis_NSIS_Walker)](http://nsis.sourceforge.net/PyTis_NSIS_Walker)
 
-Donations accepted in BitCoin: [![12Pc1XkQ57ug5oPUX9pqQumcu32ZRdMbeW](bitcoin:1Pf1jjVJxvsskT9kxeHN7e9AJMyquUtXeZ?label=NSIS%20Walker)](bitcoin:1Pf1jjVJxvsskT9kxeHN7e9AJMyquUtXeZ?label=NSIS%20Walker)
-
+Donations accepted in Bitcoin: 12Pc1XkQ57ug5oPUX9pqQumcu32ZRdMbeW
 
 #</p></pre>
