@@ -9,6 +9,9 @@ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
 for the specific language governing rights and limitations under the
 License.
 """
+# This setup program will compile the Console application to run in the command
+# line on Windows as Console.exe.  On Linux, simply run "python
+# bin/app_walker.py"
 
 import os
 

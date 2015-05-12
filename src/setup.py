@@ -9,6 +9,9 @@ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
 for the specific language governing rights and limitations under the
 License.
 """
+# This setup program will compile the GUI application to run on Windows.  To
+# run uncompiled you will need python and wxPython installed, and may run
+# "python Builder.py"
 
 import os
 
